@@ -1,0 +1,7 @@
+Seja bem-vindo ao site oficial do Colégio Cívico Militar CED 416. Criamos este espaço virtual com o objetivo de fortalecer ainda mais nossa conexão com a comunidade e oferecer uma plataforma de fácil acesso para informações essenciais sobre nosso colégio.
+Nosso site foi desenvolvido com foco na transparência e na facilidade de navegação. Aqui, você encontrará informações detalhadas sobre nossa história, missão, valores, cursos oferecidos e as mais recentes atividades e eventos. Através de uma interface amigável, buscamos garantir que todos os usuários, sejam alunos, pais, responsáveis ou visitantes, possam encontrar rapidamente o que precisam.
+Além disso, reconhecemos a importância da comunicação eficiente, e por isso, implementamos seções dedicadas ao contato direto, onde você pode encontrar telefones úteis e outras formas de se conectar conosco. Nossa página também está integrada com nossas redes sociais, permitindo que você acompanhe nossas novidades e participe ativamente da vida escolar.
+Desenvolvemos este site com carinho e dedicação, visando não apenas informar, mas também inspirar. Queremos que cada visita ao nosso site reflita a excelência e o compromisso do Colégio Cívico Militar CED 416 com a educação de qualidade e os valores cívicos e militares que promovemos.
+Agradecemos sua visita e esperamos que sua experiência aqui seja enriquecedora. Sinta-se à vontade para explorar e descobrir mais sobre nosso colégio. 
+
+criado com prompt propio com I.A (chat gpt) e aprimorado por mim: Marcos Eduardo da Sliva

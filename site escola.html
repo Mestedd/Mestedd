@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colégio Cívico Militar CED 416</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('https://agenciabrasilia.df.gov.br/wp-conteudo/uploads/2023/09/egcs01.jpeg'); /* Substitua pelo caminho da sua imagem temática */
+            background-size: cover;
+            color: #333;
+        }
+        header, footer {
+            background-color: rgba(0, 0, 0, 0.7);
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 10px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+        .content {
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            margin: 20px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Colégio Cívico Militar CED 416</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#cursos">Cursos</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="content" id="home">
+        <h2>Bem-vindo ao Colégio Cívico Militar CED 416</h2>
+        <p>Nosso colégio é dedicado a fornecer uma educação de qualidade com valores cívicos e militares.</p>
+    </div>
+    <div class="content" id="sobre">
+        <h2>Endereço</h2>
+        <p>EQ 416/516, S/N, Area Especial, Lote A, Brasília</p>
+    </div>
+    <div class="content" id="cursos">
+        <h2>Cursos</h2>
+        <p>Ensino Fundamental e Ensino Médio</p>
+    </div>
+    <div class="content" id="contato">
+        <h2>Contato</h2>
+        <p>(55) 61 3318-2183</p>
+    </div>
+    <div class="content" id="biografia">
+        <h2>Biografia</h2>
+        <p id="bio-text"></p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Colégio Cívico Militar CED 416. Todos os direitos reservados.</p>
+    </footer>
+    <h1>Visite Nosso Instagram</h1>
+    <button class="instagram-button" onclick="window.location.href='https://www.instagram.com/seu_perfil_de_escola/'">Instagram</button>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var bioText = "O Colégio Cívico Militar CED 416 se destaca pela excelência acadêmica e pelos valores cívicos e militares que promove entre seus alunos. Fundado em [1995], o colégio oferece uma educação completa que prepara os estudantes para os desafios do futuro.";
+            document.getElementById("bio-text").innerText = bioText;
+        });
+    </script>
+</body>
+</html>
+
+
